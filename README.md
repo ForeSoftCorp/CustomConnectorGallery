@@ -23,8 +23,6 @@ As of today, you are only able to use these connectors in Power BI Desktop. You 
 
 [TeamDesk by ForeSoft](https://github.com/Microsoft/CustomConnectorGallery/blob/master/Connectors/TeamDesk.PowerBI.DataConnector.mez?raw=true)
 
-[JethroData by JethroData](https://raw.githubusercontent.com/Microsoft/CustomConnectorGallery/master/Connectors/JethroData1.0.1.mez?raw=true)
-
 # Connector Support
 
 Microsoft is responsible for distribution and certification of the connectors. Support requests for the connector itself should be sent to the the partner that wrote the connector.
